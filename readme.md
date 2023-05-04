@@ -20,4 +20,4 @@
 
 **Time took to complete this project**: 1/2 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://primary-color-game-prediction.netlify.app/) of the project
